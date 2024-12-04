@@ -1,0 +1,11 @@
+Collecting llvmlite
+  Using cached llvmlite-0.43.0-cp311-cp311-win_amd64.whl.metadata (4.9 kB)
+Collecting numba
+  Using cached numba-0.60.0-cp311-cp311-win_amd64.whl.metadata (2.8 kB)
+Collecting numpy<2.1,>=1.22 (from numba)
+  Using cached numpy-2.0.2-cp311-cp311-win_amd64.whl.metadata (59 kB)
+Using cached llvmlite-0.43.0-cp311-cp311-win_amd64.whl (28.1 MB)
+Using cached numba-0.60.0-cp311-cp311-win_amd64.whl (2.7 MB)
+Using cached numpy-2.0.2-cp311-cp311-win_amd64.whl (15.9 MB)
+Installing collected packages: numpy, llvmlite, numba
+Successfully installed llvmlite-0.43.0 numba-0.60.0 numpy-2.0.2
